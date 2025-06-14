@@ -57,8 +57,8 @@ This AI voice assistant combines speech recognition, natural language processing
 ## 🚀 Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/github.com/vinodhkondaveeti/ai-voice-assistant
-ai-voice-assistant
+git clone https://github.com/vinodhkondaveeti/AI-voice-assistant
+AI-voice-assistant
 
 # Install dependencies
 pip install -r requirements.txt
