@@ -96,7 +96,5 @@ python main.py
 
 
 <br><br>
-### 📜 License
-MIT © [Venkata Vinodh Kondaveeti] 2025
-<br><br>
-<div align="center"> <p>⭐ Star this repo if you find it useful!</p> </div> 
+
+<div align="center"> <p>⭐ Star this Repository if you like this project!</p> </div> 
